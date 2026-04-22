@@ -5,7 +5,7 @@ I am a 3rd-year Computer Science student at Ho Chi Minh City University of Techn
 
 I am currently actively seeking a **Backend Engineering Internship for Summer 2026** where I can apply my knowledge to large-scale systems and learn from industry professionals.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Languages:** Java, Python, SQL, C/C++, JavaScript
 * **Frameworks & Technologies:** Spring Boot, RESTful APIs, HTML/JS
 * **Database & Architecture:** Relational Database Management, SQL Normalization, Layered Architecture
@@ -19,6 +19,8 @@ Here are a few highlights of what I've been building:
 * **Interactive Web Utilities:** Developed a "Comic Downloader" with a web-based reading interface and integrated facial recognition technology for authorized employee dashboards.
 
 ## Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/dctloc/
-* **Email:** loc.dinhbh@hcmut.edu.vn
+<a href="https://linkedin.com/in/dctloc/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
+</a>
+
   
